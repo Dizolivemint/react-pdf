@@ -1,5 +1,20 @@
 # @react-pdf/renderer
 
+## 3.0.0
+
+### Major Changes
+
+- [#1908](https://github.com/diegomura/react-pdf/pull/1908) [`d1f3d5b`](https://github.com/diegomura/react-pdf/commit/d1f3d5b9b4103705e95e2160347ee253d842ed5d) Thanks [@diegomura](https://github.com/diegomura)! - chore: use fontkit mainline repo + drop node 12
+
+### Patch Changes
+
+- [#1604](https://github.com/diegomura/react-pdf/pull/1604) [`7eefc33`](https://github.com/diegomura/react-pdf/commit/7eefc3323390c59bf6d4f923749526831572ef1a) Thanks [@jeetiss](https://github.com/jeetiss)! - fix: skip empty text instance creation in jsx conditions
+
+- Updated dependencies [[`5fe9754`](https://github.com/diegomura/react-pdf/commit/5fe9754f21f103e17d1b70498ee7961cde779b22), [`d1f3d5b`](https://github.com/diegomura/react-pdf/commit/d1f3d5b9b4103705e95e2160347ee253d842ed5d)]:
+  - @react-pdf/layout@3.1.3
+  - @react-pdf/font@2.2.2
+  - @react-pdf/pdfkit@2.4.1
+
 ## 2.3.0
 
 ### Minor Changes

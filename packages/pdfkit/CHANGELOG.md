@@ -1,5 +1,11 @@
 # @react-pdf/pdfkit
 
+## 2.4.1
+
+### Patch Changes
+
+- [#1908](https://github.com/diegomura/react-pdf/pull/1908) [`d1f3d5b`](https://github.com/diegomura/react-pdf/commit/d1f3d5b9b4103705e95e2160347ee253d842ed5d) Thanks [@diegomura](https://github.com/diegomura)! - chore: use fontkit mainline repo + drop node 12
+
 ## 2.4.0
 
 ### Minor Changes

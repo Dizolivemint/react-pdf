@@ -1,5 +1,14 @@
 # @react-pdf/layout
 
+## 3.1.3
+
+### Patch Changes
+
+- [#1911](https://github.com/diegomura/react-pdf/pull/1911) [`5fe9754`](https://github.com/diegomura/react-pdf/commit/5fe9754f21f103e17d1b70498ee7961cde779b22) Thanks [@diegomura](https://github.com/diegomura)! - refactor: yoga node prop name
+
+- Updated dependencies [[`d1f3d5b`](https://github.com/diegomura/react-pdf/commit/d1f3d5b9b4103705e95e2160347ee253d842ed5d)]:
+  - @react-pdf/pdfkit@2.4.1
+
 ## 3.1.2
 
 ### Patch Changes
